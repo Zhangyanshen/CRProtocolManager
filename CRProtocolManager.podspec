@@ -25,7 +25,8 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-                   This is CRProtocolManager DESC
+                   This is CRProtocolManager 
+		   DESC
 
   s.homepage     = "https://github.com/Zhangyanshen/CRProtocolManager.git"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
